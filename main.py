@@ -5,5 +5,5 @@ server.login('calicut673007@gmail.com', PASSWORD)
 server.sendmail(
     'calicut673007@gmail.com',
     'calicut673007@gmail.com',
-    'hsgdugfh'
+    'This is a python script  generated mail'
 )
